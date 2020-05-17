@@ -1,1 +1,1 @@
-# Friend-version-of-Angry-Birds
+# AngryBirdsStage7
